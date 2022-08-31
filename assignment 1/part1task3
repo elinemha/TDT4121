@@ -1,0 +1,9 @@
+def ArraySum(List):
+    n = len(List)
+    currentSum = 0
+    for i in range(n):
+        currentSum = List[i]
+    for j in range (i+1, n):
+        currentSum = CurrentSum + List[j] Sum[i][j] = currentSum
+
+
