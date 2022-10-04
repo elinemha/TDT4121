@@ -39,7 +39,7 @@ def merge(arr, l, m, r):
 	while i < n1:
 		arr[k] = L[i]
 		i += 1
-		k += 1
+        k += 1
 
 	# Copy the remaining elements of R[], if there
 	# are any
